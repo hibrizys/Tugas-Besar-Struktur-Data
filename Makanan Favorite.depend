@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673873577 source:c:\users\user\documents\materi & tugas kuliah izy\semester 5\joki std\dimas\makanan favorite\main.cpp
+	"tubes.h"
+
+1674008363 c:\users\user\documents\materi & tugas kuliah izy\semester 5\joki std\dimas\makanan favorite\tubes.h
+	<iostream>
+
+1674008414 source:c:\users\user\documents\materi & tugas kuliah izy\semester 5\joki std\dimas\makanan favorite\tubes.cpp
+	"tubes.h"
+
